@@ -4,3 +4,9 @@ APPUIREFMAINDRAW
 UIDRAW
 VelocityXDevSources
 .impeccable
+
+# VelocityXApp build artifacts & junk
+VelocityXApp/node_modules/
+VelocityXApp/dist/
+VelocityXApp/CLAUDESHITBLUNDERS/
+VelocityXApp/-y
